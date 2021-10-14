@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 I'm Rohan, a web developer by hobby and a current business & computer science student at the University of Toronto. I like meeting new people, making friends, travelling, playing tennis, and learning about new things. I wrote my first line of code around the age of 10 and have been intruged by the impact that computer scaience can have ever since. I love talking about the financial markets, global economy, and future trends.
-- 💬 Ask me about [technology](), [business](), and [Indian politics]()
+- 💬 Ask me about [technology](#), [business](#), and [Indian politics](#)
 - 📫 How to reach me: rohan@rohantinna.com
 - 👨🏻‍💻 Find links to all my social profiles: [rohan.vc](https://rohan.vc)
 
