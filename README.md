@@ -4,6 +4,7 @@ I'm Rohan, a web developer by hobby and a current business & computer science st
 - 📫 How to reach me: rohan@rohantinna.com
 - 👨🏻‍💻 Find links to all my social profiles: [rohan.vc](https://rohan.vc)
 - 🌱 I’m currently learning about [design](https://figma.com/@rohan) and [healthy eating & workouts](#).
+- 📺 Also, do check out my [YouTube channel](https://rohantinna.com/yt)!
 
 
 
