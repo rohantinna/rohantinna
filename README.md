@@ -5,7 +5,7 @@ I'm **Rohan**, currently a third-year student at the University of Toronto. Acad
 
 Social:
 - 🐦 Twitter: [@rohantinna](https://twitter.com/rohantinna)
-- 💬 Discord: [ROHAN#0607](https://discordapp.com/users/ROHAN#0607)
+- 💬 Discord: [rohantinna](https://discordapp.com/users/rohantinna)
 
 ---
 
