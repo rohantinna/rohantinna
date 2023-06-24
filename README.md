@@ -1,4 +1,5 @@
-### Hi there 👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Rohan!;Welcome+to+my+Github+page!)](https://git.io/typing-svg)
+
 I'm **Rohan**, currently a third-year student at the University of Toronto. Academic interests include Artificial Intelligence & Biotech. Social interests include Global Politics, Markets, & Behavioural Economics. 
 
 - 📺 Check out my [YouTube channel](https://youtube.com/@rohan_tinna)!
