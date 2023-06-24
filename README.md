@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&duration=2000&pause=5000&color=2548FF&width=435&lines=Hi%2C+I'm+Rohan+%3AD;Welcome+to+my+Github+Page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&duration=2000&pause=5000&color=2548FF&width=600&lines=Hi%2C+I'm+Rohan+%3AD;Welcome+to+my+Github+Page!)](https://git.io/typing-svg)
 
 I'm **Rohan**, currently a third-year student at the University of Toronto. Academic interests include Artificial Intelligence & Biotech. Social interests include Global Politics, Markets, & Behavioural Economics. 
 
