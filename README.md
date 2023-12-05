@@ -33,14 +33,14 @@ _TBU_
 #### Personality Development
 - [Can't Hurt Me by David Goggins](https://www.audible.in/pd/Cant-Hurt-Me-Audiobook/B07KKP5V5Q?action_code=ASSGB149080119000H&share_location=pdp)
 
-- [Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García & Francesc Miralles](#)
+- [Ikigai: The Japanese Secret to a Long and Happy Life](#) *by Héctor García & Francesc Miralles*
 
 #### Business, Politics, & Economics
-- [Imagining India by Nandan Nilekani](#)
+- [Imagining India](#) *by Nandan Nilekani*
 
-- [The Promised Land by Barack Obama](#)
+- [The Promised Land](#) *by Barack Obama*
 
-- 
+- [Democracy on the Road](#) *by Ruchir Sharma*
 
 
 ---
