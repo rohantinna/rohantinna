@@ -9,7 +9,7 @@ Currently in my fourth year of undergrad at [UofT](https://instagram.com/uoft) s
 
 #### Find me on...
 - 💬 [Discord](https://rohantinna.com/discord)
-- 🐦 [Twitter](https://twitter.com/rohantinna)
+- 𝕏 [X](https://x.com/rohantinna)
 - 📺 [Youtube](https://youtube.com/@rohan_tinna)
 
 
@@ -28,4 +28,55 @@ Currently in my fourth year of undergrad at [UofT](https://instagram.com/uoft) s
   
  - [Deep Learning](https://www.deeplearningbook.org) <br/>
 _TBU_
+
+
+#### Personality Development
+- [Can't Hurt Me by David Goggins](https://www.audible.in/pd/Cant-Hurt-Me-Audiobook/B07KKP5V5Q?action_code=ASSGB149080119000H&share_location=pdp)
+
+- [Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García & Francesc Miralles](#)
+
+#### Business, Politics, & Economics
+- [Imagining India by Nandan Nilekani](#)
+
+- [The Promised Land by Barack Obama](#)
+
+- 
+
+
+---
+
+### Favourite Movies
+
+1. Tanhaji
+2. Mission Raniganj
+3. Top Gun & Top Gun: Maverick
+4. Fast & Furious Franchise
+5. Yeh Jawaani Hai Deewani
+6. Kapoor & Sons
+7. 2 States
+8. Kuch Kuch Hota Hai
+9. The Wolf of Wall Street
+10. The Big Short
+11. Jobs
+12. Pyaar ka Punchnama 1 & 2
+13. Sony ke Titu ki Sweety
+14. The Fault in Our Stars
+15. Zindagi Na Milegi Dobara
+16. Kesari
+17. Baahubali 2
+18. Dilwale Dulhania Le Jayenge
+
+
+---
+
+### Favourite TV Shows & Series
+1. FRIENDS
+2. Little Things
+3. How I Met Your Mother
+4. The Office
+5. Vampire Diaries
+6. The Originals
+7. Silicon Valley
+8. Bad Boy Billionaires
+9. The Big Bang Theory
 
