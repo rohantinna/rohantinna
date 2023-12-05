@@ -48,23 +48,24 @@ _TBU_
 ### Favourite Movies
 
 1. Tanhaji
-2. Mission Raniganj
-3. Top Gun & Top Gun: Maverick
-4. Fast & Furious Franchise
-5. Yeh Jawaani Hai Deewani
-6. Kapoor & Sons
-7. 2 States
-8. Kuch Kuch Hota Hai
-9. The Wolf of Wall Street
-10. The Big Short
-11. Jobs
-12. Pyaar ka Punchnama 1 & 2
-13. Sony ke Titu ki Sweety
-14. The Fault in Our Stars
-15. Zindagi Na Milegi Dobara
-16. Kesari
-17. Baahubali 2
-18. Dilwale Dulhania Le Jayenge
+2. Kesari
+3. Mission Raniganj
+4. Top Gun & Top Gun: Maverick
+5. Kedarnath
+6. Fast & Furious Franchise
+7. Yeh Jawaani Hai Deewani
+8. Kapoor & Sons
+9. 2 States
+10. Kuch Kuch Hota Hai
+11. The Wolf of Wall Street
+12. The Big Short
+13. Jobs
+14. Pyaar ka Punchnama 1 & 2
+15. Sony ke Titu ki Sweety
+16. The Fault in Our Stars
+17. Zindagi Na Milegi Dobara
+18. Baahubali 2
+19. Dilwale Dulhania Le Jayenge
 
 
 ---
