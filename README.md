@@ -30,7 +30,7 @@ Currently in my fourth year of undergrad at [UofT](https://instagram.com/uoft) s
 _TBU_
 
 
-#### Personality Development
+#### Personal Development
 - [Can't Hurt Me by David Goggins](https://www.audible.in/pd/Cant-Hurt-Me-Audiobook/B07KKP5V5Q?action_code=ASSGB149080119000H&share_location=pdp)
 
 - [Ikigai: The Japanese Secret to a Long and Happy Life](#) *by Héctor García & Francesc Miralles*
