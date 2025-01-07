@@ -9,13 +9,15 @@ Currently in my fourth year of undergrad at [UofT](https://instagram.com/uoft) s
 
 #### Find me on...
 - 💬 [Discord](https://rohantinna.com/discord)
-- 𝕏 [X](https://x.com/rohantinna)
 - 📺 [Youtube](https://youtube.com/@rohan_tinna)
+- 𝕏 [X](https://x.com/rohantinna)
 
 
 ---
 
 ### Book Recs 📚
+
+> Follow me on [Goodreads](https://www.goodreads.com/rohantinna) 📖
 
 #### Finance
 - [Options Volatility & Pricing](https://a.co/d/eYvVgtB) *by Sheldon Natenberg* <br/>
