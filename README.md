@@ -1,6 +1,9 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&duration=2000&pause=5000&color=8A2FFF&vCenter=true&width=435&lines=Hi%2C+I'm+Rohan+%F0%9F%98%89;Welcome+to+my+Github+Page!)](https://git.io/typing-svg) -->
+<!-- # Hi there 👋🏼 I'm Rohan! -->
 
-# Hi there 👋🏼 I'm Rohan!
+
+![Banner](https://files.rohantinna.com/github-banner.jpg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Rohan!)](#)
 
 #### TLDR Bio
 
@@ -39,3 +42,14 @@ _TBU_
 - [The Promised Land](#) *by Barack Obama*
 
 - [Democracy on the Road](#) *by Ruchir Sharma*
+
+---
+
+### 👀 Profile Visits since 18 Mar 2025
+[![View Counter](https://count.getloli.com/@rohantinna?name=rohantinna&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](#)
+
+<!--
+### Stats ℹ️
+
+![](https://github-readme-stats.vercel.app/api?username=rohantinna&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
+-->
