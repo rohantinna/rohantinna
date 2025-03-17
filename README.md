@@ -43,6 +43,9 @@ _TBU_
 
 - [Democracy on the Road](#) *by Ruchir Sharma*
 
+- [Whatever The Odds](https://www.goodreads.com/book/show/58827881-whatever-the-odds) *by K.P. Singh* <br />
+  Read through the inspirational journey of Mr. K.P. Singh as he narrates his life story, the ups and downs he faced, and how destiny led him to steer DLF to become India's largest real-estate developer.
+
 ---
 
 ### 👀 Profile Visits since 18 Mar 2025
