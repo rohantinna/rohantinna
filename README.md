@@ -4,20 +4,16 @@
 
 #### TLDR Bio
 
-Currently in my fourth year of undergrad at [UofT](https://instagram.com/uoft) studying business & comp sci. I'm into financial markets, artificial intelligence, and a little bit of robotics. Hobbies include learning (about new things), tennis, working out, and trading.
+Tinkerer & researcher with interests in machine learning, computer architecture, embedded systems, and operating systems.
 
-
-#### Find me on...
-- 💬 [Discord](https://rohantinna.com/discord)
-- 📺 [Youtube](https://youtube.com/@rohan_tinna)
-- 𝕏 [X](https://x.com/rohantinna)
-
+[![Discord](https://img.shields.io/badge/Connect_on_Discord-5865F2?logo=discord&logoColor=fff)](https://rohantinna.com/discord)
+[![X](https://img.shields.io/badge/Follow%20%40rohantinna-000000?logo=x&logoColor=fff)](https://x.com/rohantinna)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCKJigt09FQe4N_7UIQts6tg?label=YouTube&link=https%3A%2F%2Fyoutube.com%2F%40rohan_tinna)](https://youtube.com/@rohan_tinna)
+[![Goodreads](https://img.shields.io/badge/Bookshelf-372213?logo=goodreads&logoColor=fff)](https://goodreads.com/rohantinna)
 
 ---
 
 ### Book Recs 📚
-
-> Follow me on [Goodreads](https://www.goodreads.com/rohantinna) 📖
 
 #### Finance
 - [Options Volatility & Pricing](https://a.co/d/eYvVgtB) *by Sheldon Natenberg* <br/>
